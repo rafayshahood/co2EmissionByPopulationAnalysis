@@ -23,5 +23,26 @@ To run this analysis, ensure you have Jupyter Notebook installed with the follow
 - Scikit-learn
 
 You can install the required packages using pip:
-```bash
 pip install notebook pandas numpy matplotlib seaborn scikit-learn
+
+## Usage
+
+To execute the analysis:
+1. Clone the repository to your local machine.
+2. Open the `Co2ByPopAnalysis.ipynb` notebook in Jupyter Notebook or JupyterLab.
+3. Run each cell in the notebook to reproduce the analysis.
+
+## Key Findings
+- Certain countries have been the major contributors to CO2 emissions over the past 40 years.
+- A direct relationship exists between population growth and CO2 emissions.
+- CO2 emissions have a significant impact on global temperatures, highlighting the environmental harm caused by increased emissions.
+- The analysis also demonstrates the effectiveness of linear regression models in predicting CO2 emissions based on population data.
+
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file in the repository for details.
+
+## Citation
+Data used in this project requires citation. The dataset is courtesy of Hannah Ritchie, Max Roser, and Pablo Rosado from Our World in Data. Full citation details are available in the notebook.
